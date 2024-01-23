@@ -6,6 +6,8 @@
 # This is mean to be imported as a python module for use in custom applications
 #
 #
+pip3install -r requirements.txt
+python3 main.py --username borderkindness
 
 from bs4 import BeautifulSoup
 import json
