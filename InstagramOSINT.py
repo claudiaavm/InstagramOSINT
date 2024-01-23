@@ -4,10 +4,7 @@
 # http://github.com/sc1341/InstagramOSINT
 # I am not responsible for anything you do with this script
 # This is mean to be imported as a python module for use in custom applications
-#
-#
-pip3install -r requirements.txt
-python3 main.py --username borderkindness
+
 
 from bs4 import BeautifulSoup
 import json
